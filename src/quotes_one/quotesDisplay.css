@@ -1,0 +1,57 @@
+*{
+    background-color: rgb(44, 44, 44);
+}
+.carryingDiv{
+    display: grid;
+    margin: 20px 0 0 45px;
+    justify-content: center;
+    color: white;
+}
+textarea{
+    border-radius: 20px;
+    margin-bottom: 25px;
+    margin: 25px;
+    font-size: 28px;
+    background-color: rgb(249, 208, 193);
+}
+textarea:hover{
+    background-color: rgb(195, 192, 192);
+}
+.buttonsDiv{
+    margin: 10px 0 0 25px;
+}
+button{
+    border-radius: 20px;
+    height: 55px;
+    width: 150px;
+    margin-right: 25px;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(224, 78, 25);
+}
+button:hover{
+    background-color: aquamarine;
+    border: gray;
+}
+.outerCardBox{
+    height: 200px;
+    width: 370px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    margin: 45px 0 0 80px;
+    padding: 45px;
+    background-color: rgb(184, 179, 179);
+}
+.quoteSession{
+    height: 190px;
+    background-color: rgb(152, 152, 152);
+    border-radius: 40px;
+}
+.quotes{
+    height: 50px;
+    width: 75px;
+    margin: 0 0 0 100px;
+    justify-content: center;
+    
+    
+}
